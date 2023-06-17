@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Aditya-1663/spark_bank.git/static/css/main.ec0620cc.css",
+    "main.js": "/Aditya-1663/spark_bank.git/static/js/main.1ebc1e43.js",
+    "static/js/787.39640020.chunk.js": "/Aditya-1663/spark_bank.git/static/js/787.39640020.chunk.js",
+    "index.html": "/Aditya-1663/spark_bank.git/index.html",
+    "main.ec0620cc.css.map": "/Aditya-1663/spark_bank.git/static/css/main.ec0620cc.css.map",
+    "main.1ebc1e43.js.map": "/Aditya-1663/spark_bank.git/static/js/main.1ebc1e43.js.map",
+    "787.39640020.chunk.js.map": "/Aditya-1663/spark_bank.git/static/js/787.39640020.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec0620cc.css",
+    "static/js/main.1ebc1e43.js"
+  ]
+}
