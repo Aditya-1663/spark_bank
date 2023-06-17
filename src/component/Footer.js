@@ -52,8 +52,8 @@ const Footer = () => {
                         
                     </section>
                     <div className="container p-4 mb-3 display-6 d-flex justify-content-center flex-column  myfont"  >
-                        <img className='d-flex justify-content-center' src="https://cdn-icons-png.flaticon.com/128/4519/4519107.png" style={{height:"90px",width:"100px", margin:"0 45%"}}>
-                            </img>
+                        <img className='d-flex justify-content-center' src="https://cdn-icons-png.flaticon.com/128/4519/4519107.png" style={{height:"90px",width:"100px", margin:"0 45%"}}/>
+                            
                             <div   >
 
                             Spark Bank Of India</div>
